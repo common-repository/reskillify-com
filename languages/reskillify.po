@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Text in function
+#: settings.php:29
+msgid "API Key"
+msgstr "API Key"
+
+#. Text in function
+#: settings.php:58
+msgid "API Key Settings"
+msgstr "API Key Settings"
+
+#. Text in function
+#: settings.php:73
+msgid "Reskillify.com"
+msgstr "Reskillify.com"
+
+#. Text in function
+#: settings.php:36
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#. Text in function
+#: add-field-to-woocommerce.php:11
+msgid "reskillify.com product ID"
+msgstr "reskillify.com product ID"
+
+#. Text in function
+#: add-field-to-woocommerce.php:12
+msgid "Product ID on reskillify.com"
+msgstr "Product ID on reskillify.com"
